@@ -1,0 +1,89 @@
+@media(min-width:0px) and (max-width:1025px){
+
+    .mega img {
+        width: 107px;
+        height: 107px;
+        
+    }
+
+    .testmonial h2{
+        font-size: 12px;
+        padding: 22px 254px 24px 3px;
+    }
+
+    .footer h1{
+        width: 328px;
+        
+    }
+
+
+
+
+
+
+
+
+
+}
+
+@media(min-width:0px) and (max-width:769px){
+
+    .testmonial h2 {
+        font-size: 12px;
+        padding: 18px 86px 24px 3px;
+    }
+
+    .footer h1 {
+        /* width: 387px; */
+        /* height: 68px; */
+        left: 143px;
+        top: 2068px;
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        padding: 0px 126px 7px 2px;
+        line-height: 30px;
+        color: #FFFFFF;
+    }
+    .banner-content h1 {
+        font-size: 40px;
+        
+    }
+
+
+}
+
+
+@media(min-width:0px) and (max-width:426px){
+
+    .online_course-content {
+        
+        margin-bottom: 21px;
+    }
+
+    .mega {
+        text-align: center;
+    }
+    .testmonial h2 {
+        font-size: 16px;
+        text-align: center;
+        padding: 22px 2px 16px 3px;
+    }
+
+    .footer h1 {
+        margin-left: 100px;
+        text-align: center;
+        margin-bottom: 74px;
+    }
+
+
+
+
+
+
+
+}
+
+
+@media(min-width:0px) and (max-width:321px)
